@@ -12,7 +12,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.sv
 src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="Html Logo" height="50px" weight="50px"> <img 
 src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="Css Logo" height="50px" weight="50px"> <img 
 src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" height="50px" weight="50px"> <img
-src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb logo" height="50px" weight="50px"
+src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb logo" height="50px" weight="50px">
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Klacker24&theme=radical)](https://github.com/Klacker24/github-readme-stats)
