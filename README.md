@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Kutay!
 
 ---
-<img src="https://img.shields.io/twitter/follow/KutayAkcaoz?style=social">
+<img src="https://img.shields.io/twitter/follow/k1acker?style=social">
 
 
 ---
@@ -15,10 +15,10 @@ src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript
 src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb logo" height="50px" weight="50px">
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Klacker24&theme=radical)](https://github.com/Klacker24/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Klacker24&theme=radical)](https://github.com/k1acker/github-readme-stats)
 
 
-[![Klacker's GitHub stats](https://github-readme-stats.vercel.app/api?username=Klacker24&theme=radical)](https://github.com/Klacker24/github-readme-stats)
+[![Klacker's GitHub stats](https://github-readme-stats.vercel.app/api?username=Klacker24&theme=radical)](https://github.com/k1acker/github-readme-stats)
 
 
 <!---
