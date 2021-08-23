@@ -16,10 +16,10 @@ src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-origi
 src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react logo" height="50px" weight="50px">
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k1acker&layout=compact)](https://github.com/k1acker/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k1acker&layout=compact&theme=radical)](https://github.com/k1acker/github-readme-stats)
 
 
 
-[![k1acker's GitHub stats](https://github-readme-stats.vercel.app/api?username=k1acker)](https://github.com/k1acker/github-readme-stats)
+[![k1acker's GitHub stats](https://github-readme-stats.vercel.app/api?username=k1acker&theme=radical)](https://github.com/k1acker/github-readme-stats)
 
 
