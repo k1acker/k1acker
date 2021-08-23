@@ -3,6 +3,10 @@
 ---
 <img src="https://img.shields.io/twitter/follow/k1acker?style=social">
 
+---
+Bio
+
+Hi, I'm a third year computer science student. Currently trying to explore what I can do with websites.
 
 ---
 🧰 Toolbox
