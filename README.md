@@ -6,7 +6,7 @@
 ---
 Bio
 
-Hi, I'm a third year computer science student. Currently trying to explore what I can do with websites.
+I got interested in coding when I was in high school. It was a perfect task for me because I love solving problems (sometimes becomes an obsession...) but also I like people as well. That's why I like to be upfront and build websites for businesses and people.
 
 ---
 🧰 Toolbox
